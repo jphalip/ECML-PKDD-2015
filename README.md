@@ -9,6 +9,15 @@ For more information about the original competition winner's solution, please re
 - The [detailed published paper](https://arxiv.org/abs/1508.00021).
 - The [original implementation](https://github.com/adbrebs/taxi) using Theano and Blocks.
 
+Code structure
+--------------
+
+The code is comprised of three main files inside the `code` folder:
+
+- [data.py](code/data.py): Methods for loading, cleaning and pre-processing the original datasets.
+- [training.py](code/training.py): Methods for defining the neural network model and for running the training process.
+- [utils.py](code/utils.py): Various mathematical and graphical utility functions.
+
 Getting started
 ---------------
 
