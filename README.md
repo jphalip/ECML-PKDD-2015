@@ -2,7 +2,7 @@ Background
 ----------
 
 This repository contains code written for the Kaggle competition "[ECML/PKDD 15: Taxi Trajectory Prediction](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i)".
-This implementation, based on Tensorflow and Keras, is inspired from the approach followed by the competition's winners. More information about this code is provided on [this blog post]().
+This implementation, based on Tensorflow and Keras, is inspired from the approach followed by the competition's winners. More information about this code is provided on [this blog post](http://julienphalip.com/post/155781542412/kaggle-competition-report-ecml-pkdd-2015-taxi).
 
 For more information about the original competition winner's solution, please refer to:
 - The [summary](http://blog.kaggle.com/2015/07/27/taxi-trajectory-winners-interview-1st-place-team-%F0%9F%9A%95/) on Kaggle's blog.
